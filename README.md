@@ -1,0 +1,1 @@
+This project is a Spam Email Classifier that uses a Naive Bayes classifier to detect whether an email message is spam or ham (non-spam). The classifier is trained using the scikit-learn library and processes textual data using the CountVectorizer for feature extraction.
